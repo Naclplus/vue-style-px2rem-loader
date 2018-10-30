@@ -1,0 +1,21 @@
+{
+  "name": "vue-style-px2rem-loader",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Naclplus/vue-style-px2rem-loader",
+  "author": "songsiqi <songsiqi2006@126.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Naclplus/vue-style-px2rem-loader.git"
+  },
+  "main": "lib/vue-style-px2rem-loader.js",
+  "keywords": [
+    "vue",
+    "loader",
+    "px2rem",
+    "webpack"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
